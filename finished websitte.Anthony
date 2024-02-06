@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <style>
+        body {
+            font-size: 16px; /* You can adjust this value to your preferred font size */
+        }
+        .post-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
+            gap: 20px;
+        }
+        .post-content {
+            margin-bottom: 20px; /* Adjust this margin to control the spacing between project descriptions */
+        }
+    </style>
+    <title>Anthony Laite Data Portfolio</title>
+</head>
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper" class="fade-in">
+
+    <!-- Intro -->
+    <div id="intro">
+        <h1>Anthony Laite Data Portfolio<br /></h1>
+        <p>Graduate Student With skills in programming, statistical Analysis, and data visualization <a href="https://www.linkedin.com/in/anthony-laite-604634237/" target="_blank">@ANTHONYLAITE</a>.</p>
+        <ul class="actions">
+            <li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+        </ul>
+    </div>
+
+    <!-- Header -->
+    <header id="header">
+        <a href="index.html" class="logo">Welcome</a>
+    </header>
+    <!-- Nav -->
+    <nav id="nav">
+        <ul class="links">
+            <li class="active"><a href="index.html">Projects</a></li>
+        </ul>
+        <ul class="icons">
+            <li><a href="https://www.linkedin.com/in/anthony-laite-604634237/" class="icon brands alt fa-LinkedIn" target="_blank"><span class="label">fa-LinkedIn</span></a></li>
+        </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main">
+        <!-- Featured Post -->
+        <article class="post featured">
+            <header class="major">
+                <h2><a href="https://medium.com/@anthony.laite001/driving-insights-unveiling-auto-dynamics-with-sql-and-tableau-9d15ef221faa" target="_blank">Driving Insights: Unveiling Auto Dynamics with SQL and Tableau<br /></a></h2>
+                <p class="post-content">This project leveraged a dataset extracted from an Excel file containing detailed information about various car models, including attributes such as engine size, horsepower, fuel efficiency, and pricing. Utilizing SQL, insightful queries were crafted to extract relevant insights from the dataset. The extracted data was then transformed into compelling visualizations using Tableau, providing a comprehensive and visually engaging analysis of car attributes, fuel efficiency, and performance across different brands and body styles. This data-driven approach aims to offer an understanding of the automotive landscape, highlighting key trends and patterns within the data.</p>
+            </header>
+            <div class="image main"><img src="https://media.gq-magazine.co.uk/photos/5d13a3199fa6017e488394f8/16:9/w_1920,c_limit/Honda-Civic-01GQ-6Mar17_b.jpg" alt="" style="width: 100%; max-height: 500px; object-fit: cover;" /></div>
+            <ul class="actions special">
+                <li><a href="https://medium.com/@anthony.laite001/driving-insights-unveiling-auto-dynamics-with-sql-and-tableau-9d15ef221faa" class="button large" target="_blank">View Project</a></li>
+            </ul>
+        </article>
+
+        <!-- Featured Post Grid -->
+        <div class="post-grid">
+            <!-- Second Article -->
+            <article class="post featured">
+                <header class="major">
+                    <h2><a href="https://medium.com/@anthony.laite001/economic-correlations-a-comprehensive-analysis-of-expenditure-and-gdp-7e6f46304efc" target="_blank">Correlation in Python: Analyzing Expenditure and GDP Trends</a></h2>
+                </header>
+                <div class="image main">
+                    <!-- Add an image for your second project if desired -->
+                    <img src="https://bsmedia.business-standard.com/_media/bs/img/about-page/1562035910.jpg?im=FeatureCrop,size=(826,465)" alt="" style="width: 100%; max-height: 500px; object-fit: cover;" />
+                </div>
+                <p class="post-content">In this data-driven exploration, I dive into the relationship between expenditure and GDP using Python. The primary goal is to uncover hidden patterns, trends, and correlations within a diverse dataset. Leveraging Python's powerful tools, we aim to employ advanced statistical analyses and visualizations to provide valuable insights into the economic dynamics of different regions. Join Me on my journey as I unravel the complexities of expenditure and GDP trends, offering a unique perspective on the connections of economic factors.</p>
+                <ul class="actions special">
+                    <li><a href="https://medium.com/@anthony.laite001/economic-correlations-a-comprehensive-analysis-of-expenditure-and-gdp-7e6f46304efc" class="button large" target="_blank">View Project</a></li>
+                </ul>
+            </article>
+
+            <!-- Third Article -->
+            <article class="post featured">
+                <header class="major">
+                    <h2><a href="https://medium.com/@anthony.laite001/navigating-the-data-job-landscape-insights-from-sql-tableau-and-python-c857b436cefa" target="_blank">Navigating the Data Job Landscape: Insights from SQL, Tableau, and Python</a></h2>
+                </header>
+                <div class="image main">
+                    <!-- Add an image for your second project if desired -->
+                    <img src="https://t3.ftcdn.net/jpg/07/02/41/56/240_F_702415647_9ZHi6Y2N8HpvCndnT9fFkyV5mxf2w8Gl.webp" style="width: 100%; max-height: 500px; object-fit: cover;" />
+                </div>
+                <p class="post-content">This exploration dives into the interplay between job categories, salaries, and global economic landscapes. Utilizing a combination of SQL, Python, and Tableau, this project seeks to unveil patterns and correlations within an extensive dataset. My journey goes beyond statistics, venturing into the qualitative dimensions of the job market. Join me in the complexities of this evolving realm, where data-driven insights come alive, this project provides a new and fresh perspective on the dynamics of careers, compensation, and global influences.</p>
+                <ul class="actions special">
+                    <li><a href="https://medium.com/@anthony.laite001/navigating-the-data-job-landscape-insights-from-sql-tableau-and-python-c857b436cefa" class="button large" target="_blank">View Project</a></li>
+                </ul>
+            </article>
+
+            <!-- Fourth Article -->
+            <article class="post featured">
+                <header class="major">
+                    <h2><a href="https://medium.com/@anthony.laite001/sql-data-cleanup-transforming-raw-bike-sales-data-b966b8bcaa4c" target="_blank">SQL Data Cleanup: Transforming Raw Bike Sales Data From Excel</a></h2>
+                </header>
+                <div class="image main">
+                    <!-- Add an image for your fourth project if desired -->
+                    <img src="https://media.california.com/media/_versions_jpg/articles/ca_bicycles__3931x2453____v1222x580__.jpg" alt="" style="width: 100%; max-height: 500px; object-fit: cover;" />
+                </div>
+                <p class="post-content">In this SQL Data Cleanup project, I transformed messy bike sales data from Excel, enhancing it for analysis. Tackling missing values, date discrepancies, and more, I leveraged powerful SQL queries. Unveil the magic of SQL: disabling key constraints, removing blanks in 'Age_Group,' and standardizing gender labels. Witness the 'Before' and 'After' results, showcasing remarkable improvements in data integrity, structure, and accuracy. Explore how SQL elevates raw data, ensuring a refined dataset essential for profound analysis. Dive into the transformative impact of SQL, unlocking insights from seemingly chaotic datasets with just the right queries</p>
+                <ul class="actions special">
+                    <li><a href="https://medium.com/@anthony.laite001/sql-data-cleanup-transforming-raw-bike-sales-data-b966b8bcaa4c" class="button large" target="_blank">View Project</a></li>
+                </ul>
+            </article>
+
+            <!-- Fifth Article -->
+            <article class="post featured">
+                <header class="major">
+                    <h2><a href="https://medium.com/@anthony.laite001/slicing-through-data-a-deep-dive-into-pizza-trends-with-r-358931ef62e1" target="_blank">Slicing Through Data: A Deep Dive into Insightful Pizza Trends with R</a></h2>
+                </header>
+                <div class="image main">
+                    <!-- Add an image for your fifth project if desired -->
+                    <img src="https://wallpapers.com/images/hd/cheesy-neapolitan-pizza-jakfv85pbyjshcv9.jpg" alt="" style="width: 100%; max-height: 500px; object-fit: cover;" />
+                </div>
+                <p class="post-content">In this R-Powered Pizza Insight venture, I harnessed the coding prowess of R to dissect a dataset sourced from an Excel spreadsheet. Diving into pizza sales intricacies, I decoded the Average Profitability by Pizza Category, performed an interesting Price Analysis with a Correlation Heatmap, and spotlighted the Top 5 pizzas reigning in sales glory. This project will show the power the application R has as it unravels customer preferences, streamlines inventory, and unveils the patterns of seasonal sales. This project transforms raw pizza data into an array of actionable insights, reshaping the competitive pizza landscape with analytical information.</p>
+                <ul class="actions special">
+                    <li><a href="https://medium.com/@anthony.laite001/slicing-through-data-a-deep-dive-into-pizza-trends-with-r-358931ef62e1" class="button large" target="_blank">View Project</a></li>
+                </ul>
+            </article>
+
+        </div>
+    </div>
+
+    <!-- Contact and Footer sections go here... -->
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
